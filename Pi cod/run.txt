@@ -1,0 +1,6 @@
+
+
+
+
+python main.py --input noisy_6000frames.tif --output denoised_output2.tif --window 7 --load_weights denoise_model.pth
+
