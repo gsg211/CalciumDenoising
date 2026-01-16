@@ -1,5 +1,10 @@
 # Calcium image denoising
 
+[Demo 1](https://drive.google.com/file/d/1g9P6Cg6aZ72z-ZnfZCKKqlBoAFoG6Bas/view?usp=drive_link) 
+<br/><br/>
+[Demo 2](https://drive.google.com/file/d/1ZoImyubIrTV9hT7AljV_hMwx-Aryeh6e/view?usp=drive_link)
+<br/>
+
 # Tabel Lucrari
 
 | NR  | Autori/An                                                                                                                                  | Titlu                                                                                                                                                       | Aplicatie/Domeniu                                                                                      | Tehnologii Utilizate                    | Metodologie                                                                                                                                              | Rezultate                                                                                                                                                   | Limitari                                                                                                                                      | Comentarii                                            |
